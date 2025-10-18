@@ -1,7 +1,7 @@
 Zurich SenseBox Map
 ====================
 
-This project presents an interactive web application for visualizing environmental sensor data collected with a SenseBox Mini in Zurich, Switzerland. The goal is to explore and validate Volunteered Geographic Information (VGI) using additional open datasets, inspired by platforms like OpenSenseMap.
+Small project for an interactive web application for visualizing environmental sensor data collected with a SenseBox Mini in Zurich, Switzerland. The goal is to explore and validate Volunteered Geographic Information (VGI) using additional open datasets, inspired by platforms like OpenSenseMap. This small exercise is part of ETH Lecture Avanced GIS.
 
 Project Overview
 ----------------

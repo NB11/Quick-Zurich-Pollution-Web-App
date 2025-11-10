@@ -362,8 +362,8 @@ text: `
 <div class="infoFlexContainer">
   <div class="infoText">
     <p>Hi there!</p>
-    <p>We are Jian, Leo, Raul, and Noe from the Advanced GIS course at ETH Zürich. This website is part of our group project, where we built an interactive map to visualize environmental sensor data collected using a <a href="https://sensebox.de/de/products-mini.html" target="_blank">SenseBox Mini</a>.</p>
-    <p>To gather the data, we cycled through the neighbourhoods of Höngg and Wipkingen in Zurich with the SenseBox mounted to a backpack (See picture on the right). Measurements were recorded every 5 seconds after a GPS fix was established. Since the bike was in motion, wind and terrain likely influenced the readings. We ended up with more data in uphill areas because it simply took longer to climb!</p>
+    <p> This website is part of a small project, where I built an interactive map to visualize environmental sensor data collected using a <a href="https://sensebox.de/de/products-mini.html" target="_blank">SenseBox Mini</a>.</p>
+    <p>To gather the data, I cycled through the neighbourhoods of Höngg and Wipkingen in Zurich with the SenseBox mounted to a backpack (See picture on the right). Measurements were recorded every 5 seconds after a GPS fix was established. Since the bike was in motion, wind and terrain likely influenced the readings. I ended up with more data in uphill areas because it simply took longer to climb!</p>
     <p>We combined these measurements with official public datasets to validate the results and provide additional context.</p>
     <p>Hope you find it interesting!</p>
   </div>
@@ -433,3 +433,4 @@ contact: {
 
 
 });
+

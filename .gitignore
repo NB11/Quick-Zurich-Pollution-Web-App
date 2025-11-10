@@ -1,0 +1,8 @@
+# Data folder - removed from git history
+Data/
+
+# Common files to ignore
+*.log
+.DS_Store
+Thumbs.db
+
